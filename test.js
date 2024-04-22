@@ -1,4 +1,1 @@
-<script>
-  // JavaScript code to test rendering
-  document.write("<h1>This is a rendering test!</h1><p>Your HTML content is rendering correctly.</p>");
-</script>
+<script src="https://s3-us-west-2.amazonaws.com/bloomerang-public-cdn/anayatipnisfoundationinc/.widget-js/913408.js" type="text/javascript"></script>
