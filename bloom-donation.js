@@ -1,5 +1,5 @@
 <script type="text/javascript" id="bloomerangForm907264"></script>
-<pre><script type="text/javascript">
+<script type="text/javascript">
     var insertForm907264 = function() {
         var html907264 = '<style text=\'text/css\'>' +
 '.donation-form label{color: #404040;' +
@@ -1324,4 +1324,4 @@
                 };
 
                 startBloomerangLoad();
-</script></pre>
+</script>
